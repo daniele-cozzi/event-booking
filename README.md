@@ -17,7 +17,7 @@ EventBooking is a comprehensive event reservation system that provides an intuit
 - Each user registers with a name, surname, email, password, date of birth, and tax code.
 - Distinct roles for customers, sellers, admins, and superadmins, each with access to corresponding features.
 
-#### Reservations and Purchases
+### Reservations and Purchases
 - Customers can search for events, add tickets to the cart, confirm purchases, and view their ticket history.
 - Automatic email delivery with purchased tickets.
 
