@@ -1,4 +1,4 @@
-﻿﻿# event-booking
+# event-booking
 
 <b>Event Reservation System</b>
 
