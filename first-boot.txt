@@ -1,3 +1,0 @@
-Super admin account
-Email: superadmin@gmail.com
-Password: superadmin
