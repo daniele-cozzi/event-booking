@@ -9,8 +9,8 @@ EventBooking is a comprehensive event reservation system that provides an intuit
 - Sellers can upload detailed events, assigning multiple categories and defining dates, times, locations, and ticket prices.
 - The ability to set prices and view sales statistics for each event.
 
-### Venue Management
-- Administrators can input venues with complete details, including address, city, sections, and available seats.
+### Place Management
+- Administrators can input places with complete details, including address, city, sections, and available seats.
 - Each section has a list of seats with distinct names to ensure better organization.
 
 ### User Management
