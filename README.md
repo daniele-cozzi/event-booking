@@ -30,7 +30,7 @@ EventBooking is a comprehensive event reservation system that provides an intuit
 
 ### Specific Roles
 - Sellers can monitor sales, modify ticket prices, and update upcoming events.
-- Administrators manage the system, create seller accounts, lock/unlock accounts, and handle venues.
+- Administrators manage the system, create seller accounts, lock/unlock accounts, and handle places.
 - The superadmin has complete control, creating admin accounts and managing access permissions.
 
 ### Security
